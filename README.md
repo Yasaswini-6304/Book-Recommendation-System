@@ -65,7 +65,7 @@ This is achieved through predictive modeling and heuristics with the data availa
 This is a streamlit web application that can recommend various kinds of similar books based on the user interest.
 
 # Data set:
-*[Dataset link](https://www.kaggle.com/datasets/arashnic/book-recommendation-dataset)
+*[Dataset link](https://www.kaggle.com/ra4u12/bookrecommendation)
 
 # Concept used to build the model.pkl file : NearestNeighbors
 
